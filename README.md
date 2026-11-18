@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hello ,<br>I’m a Student from IT background starting my journey to become a Data Engineer<br>I’m looking for help with learnings about it.
+
 
 
 ## 🌐 Socials:
